@@ -1,6 +1,6 @@
 # Similarity-based One-Class Classification for Fraud Detection in the Big Data Context
 
-### Developed by Team 19, consisting of:
+### Developed by Team 19 (NottATeam) of the Big Data Module, consisting of:
 ### Tze Ee Yong, Jiachenn Choong, Hui Shen Sam, Dong Jun Lee
 
 ## Motivation
