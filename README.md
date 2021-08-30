@@ -74,8 +74,8 @@ Fig 1. Prediction operation             |  Fig 2. Batch update operation
 
 |  | Accuracy (%) | AUROC  |Model size|
 |:-----------------:|:-------------:|:-------:|:--------:|
-| k-Means         | 34.69        | 0.4999 | 5912   |
-| k-NN            | 41.33        | 0.4993 | 4989   |
+| k-NN            | 34.69        | 0.4999 | 5912   |
+| k-Means         | 41.33        | 0.4993 | 4989   |
 
 
 In terms of computational speed, our results show that the k-Means approach significantly outperformed the k-NN approach. k-Means is at least 13 times faster compared to k-NN, signifying a huge throughput difference between both methods and showing that k-Means is a more efficient method compared to k-NN while also having a smaller model in the context of Big Data for our approach. 
