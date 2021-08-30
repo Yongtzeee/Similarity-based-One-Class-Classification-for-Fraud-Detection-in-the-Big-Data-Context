@@ -17,17 +17,7 @@ The challenge consists of a train and a test dataset, with each constituting two
 
 
 ## Running our implementation
-Our implementation was developed on Databricks, with access provided by the University. All implementations are provided in `.ipynb` format that tailors to Databricks functionality. However, you can also run this implementation by cloning the repository as follows:
-
-### Cloning over HTTPS
-```
-$ git clone https://projects.cs.nott.ac.uk/comp4103/2020-2021/team19.git
-```
-
-### Cloning over SSH
-```
-$ git clone git@projects.cs.nott.ac.uk:comp4103/2020-2021/team19.git
-```
+Our implementation was developed on Databricks, with access provided by the University. All implementations are provided in `.ipynb` format that tailors to Databricks functionality.
 
 ## Required Dependencies
 
